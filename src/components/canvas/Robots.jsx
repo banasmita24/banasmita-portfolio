@@ -61,8 +61,8 @@ const RobotsCanvas = () => {
           minPolarAngle={Math.PI / 2}
         />
         <Robots isMobile={isMobile} />
-        <Preload all />
       </Suspense>
+      <Preload all />
     </Canvas>
   );
 };
