@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien planet
+* source:	https://sketchfab.com/3d-models/alien-planet-8d982e50159148ea8b1d03bd3d03f4f4
+* author:	Citron Vert (https://sketchfab.com/citron.vert)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien planet" (https://sketchfab.com/3d-models/alien-planet-8d982e50159148ea8b1d03bd3d03f4f4) by Citron Vert (https://sketchfab.com/citron.vert) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
